@@ -35,7 +35,6 @@ Before you can start using the RAG Bot, make sure you have the following prerequ
 1. Clone this repository to your local machine.
 
     ```bash
-    git clone https://github.com/ZeusSama0001/RAG-chatbot.git
     cd RAG-chatbot
     ```
 
